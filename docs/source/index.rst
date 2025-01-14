@@ -19,4 +19,8 @@ Contents
 .. toctree::
 
    usage
+   aa
+   bb
+   cc
+   dd
    api
