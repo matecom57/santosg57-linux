@@ -5,7 +5,7 @@ cute
 
 prog_prueba.R
 
-.. code:: Bash
+.. code:: R
 
    rm(list=ls())
 
@@ -116,7 +116,7 @@ prog_prueba.R
 
 SolucionXPU_3_salto_chamba.R
 
-.. source:: Bash
+.. source:: R
 
    SolucionXPU_3_salto_chamba <- function(del=0, pp=0){
       ss = dim(pp)
