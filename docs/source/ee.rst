@@ -1,7 +1,7 @@
 eee
 ===
 
-.. cod:: Console
+.. code:: Console
 
    e2freefrag            eatmydata             ed                    env                   ex
    e2fsck                ebtables              editor                envsubst              exec
