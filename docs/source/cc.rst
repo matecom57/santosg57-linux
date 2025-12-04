@@ -1,7 +1,7 @@
 ccc
 ===
 
-.. source:: Bash
+.. code:: Bash
 
    c++                      chmod                    conjure                  csrutil
    c++-13                   chmorph                  connectedcomp            csv2rdf

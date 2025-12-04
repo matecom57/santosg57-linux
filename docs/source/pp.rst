@@ -1,72 +1,75 @@
-Display all 135 possibilities? (y or n)
-pager                                         podchecker
-pam-auth-update                               pollinate
-pam_extrausers_chkpwd                         popd
-pam_extrausers_update                         poweroff
-pam_getenv                                    pr
-pam_namespace_helper                          precat
-pam_timestamp_check                           preconv
-parted                                        preunzip
-partprobe                                     prezip
-partx                                         prezip-bin
-passwd                                        printenv
-paste                                         printf
-pastebinit                                    prlimit
-patch                                         pro
-pathchk                                       prove
-pbget                                         prtstat
-pbput                                         ps
-pbputs                                        psfaddtable
-pcre2-config                                  psfgettable
-pcre2_jit_test                                psfstriptable
-pcre2grep                                     psfxtable
-pcre2posix_test                               pslog
-pcre2test                                     pstree
-pdata_tools                                   pstree.x11
-pdb3                                          ptar
-pdb3.12                                       ptardiff
-peekfd                                        ptargrep
-perl                                          ptx
-perl5.38-x86_64-linux-gnu                     purge-old-kernels
-perl5.38.2                                    pushd
-perlbug                                       pvchange
-perldoc                                       pvck
-perlivp                                       pvcreate
-perlthanks                                    pvdisplay
-pgrep                                         pvmove
-pic                                           pvremove
-pico                                          pvresize
-piconv                                        pvs
-pidof                                         pvscan
-pidstat                                       pwck
-pidwait                                       pwconv
-pinentry                                      pwd
-pinentry-curses                               pwdx
-ping                                          pwhistory_helper
-ping4                                         pwunconv
-ping6                                         py3clean
-pinky                                         py3compile
-pip                                           py3versions
-pip3                                          pybabel
-pip3.12                                       pybabel-python3
-pipx                                          pydoc
-pivot_root                                    pydoc3
-pkaction                                      pydoc3.12
-pkcheck                                       pygettext3
-pkcon                                         pygettext3.12
-pkgdata                                       pygmentize
-pkill                                         pyhtmlizer3
-pkmon                                         pyserial-miniterm
-pkttyagent                                    pyserial-ports
-pl2pm                                         python
-pldd                                          python-argcomplete-check-easy-install-script
-plymouth                                      python3
-plymouthd                                     python3-config
-pmap                                          python3.1
-pod2html                                      python3.12
-pod2man                                       python3.12-config
-pod2text                                      pzstd
-pod2usage                                     
-(base) vagrant@vagrant:~$ p
+ppp
+===
+
+.. code:: Bash
+
+   pager                                         podchecker
+   pam-auth-update                               pollinate
+   pam_extrausers_chkpwd                         popd
+   pam_extrausers_update                         poweroff
+   pam_getenv                                    pr
+   pam_namespace_helper                          precat
+   pam_timestamp_check                           preconv
+   parted                                        preunzip
+   partprobe                                     prezip
+   partx                                         prezip-bin
+   passwd                                        printenv
+   paste                                         printf
+   pastebinit                                    prlimit
+   patch                                         pro
+   pathchk                                       prove
+   pbget                                         prtstat
+   pbput                                         ps
+   pbputs                                        psfaddtable
+   pcre2-config                                  psfgettable
+   pcre2_jit_test                                psfstriptable
+   pcre2grep                                     psfxtable
+   pcre2posix_test                               pslog
+   pcre2test                                     pstree
+   pdata_tools                                   pstree.x11
+   pdb3                                          ptar
+   pdb3.12                                       ptardiff
+   peekfd                                        ptargrep
+   perl                                          ptx
+   perl5.38-x86_64-linux-gnu                     purge-old-kernels
+   perl5.38.2                                    pushd
+   perlbug                                       pvchange
+   perldoc                                       pvck
+   perlivp                                       pvcreate
+   perlthanks                                    pvdisplay
+   pgrep                                         pvmove
+   pic                                           pvremove
+   pico                                          pvresize
+   piconv                                        pvs
+   pidof                                         pvscan
+   pidstat                                       pwck
+   pidwait                                       pwconv
+   pinentry                                      pwd
+   pinentry-curses                               pwdx
+   ping                                          pwhistory_helper
+   ping4                                         pwunconv
+   ping6                                         py3clean
+   pinky                                         py3compile
+   pip                                           py3versions
+   pip3                                          pybabel
+   pip3.12                                       pybabel-python3
+   pipx                                          pydoc
+   pivot_root                                    pydoc3
+   pkaction                                      pydoc3.12
+   pkcheck                                       pygettext3
+   pkcon                                         pygettext3.12
+   pkgdata                                       pygmentize
+   pkill                                         pyhtmlizer3
+   pkmon                                         pyserial-miniterm
+   pkttyagent                                    pyserial-ports
+   pl2pm                                         python
+   pldd                                          python-argcomplete-check-easy-install-script
+   plymouth                                      python3
+   plymouthd                                     python3-config
+   pmap                                          python3.1
+   pod2html                                      python3.12
+   pod2man                                       python3.12-config
+   pod2text                                      pzstd
+   pod2usage                                     
 
 
