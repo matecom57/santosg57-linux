@@ -40,4 +40,7 @@ Contents
    ChatGPT
    awk
    ls
+   chmod
+   mkdir
+   pwd
 
