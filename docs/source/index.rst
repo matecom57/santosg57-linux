@@ -18,26 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   aa
-   bb
-   cc
-   dd
-   ee
-   ff
-   gg
-   hh
-   ii
-   jj
-   kk
-   ll
-   mm
-   nn
-   oo
-   pp
-   api
-   cute
-   ChatGPT
+   apropos.rst
    awk
    ls
    chmod
