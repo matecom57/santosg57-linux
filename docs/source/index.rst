@@ -39,4 +39,5 @@ Contents
    cute
    ChatGPT
    awk
+   ls
 
