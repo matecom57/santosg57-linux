@@ -28,4 +28,5 @@ Contents
    anova_medidas_repetidas
    medidas_repetidas_modelos_mezclados
    seaborn_ejemplos.rst
+   nifti.rst
 
