@@ -24,4 +24,5 @@ Contents
    chmod
    mkdir
    pwd
+   joel_nov23
 
