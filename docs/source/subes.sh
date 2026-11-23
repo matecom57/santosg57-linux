@@ -6,6 +6,8 @@ cd ../../
 
 ./sube.git.sh
 
+open curso.html
+
 cd $pwd1
 
 
