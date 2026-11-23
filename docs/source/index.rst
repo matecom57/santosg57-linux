@@ -27,4 +27,5 @@ Contents
    joel_nov23
    anova_medidas_repetidas
    medidas_repetidas_modelos_mezclados
+   seaborn_ejemplos.rst
 
