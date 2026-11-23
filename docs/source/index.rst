@@ -29,4 +29,5 @@ Contents
    medidas_repetidas_modelos_mezclados
    seaborn_ejemplos.rst
    nifti.rst
+   Libros57_USB.rst
 
