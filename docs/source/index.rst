@@ -26,4 +26,5 @@ Contents
    pwd
    joel_nov23
    anova_medidas_repetidas
+   medidas_repetidas_modelos_mezclados
 
