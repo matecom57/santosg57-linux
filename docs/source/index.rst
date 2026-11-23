@@ -25,4 +25,5 @@ Contents
    mkdir
    pwd
    joel_nov23
+   anova_medidas_repetidas
 
