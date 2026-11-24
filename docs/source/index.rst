@@ -31,4 +31,5 @@ Contents
    nifti.rst
    Libros57_USB.rst
    cute/cute.rst
+   joel/joel.rst
 
