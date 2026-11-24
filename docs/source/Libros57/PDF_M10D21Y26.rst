@@ -98,137 +98,192 @@ Y DEL INVENTARIO DE TEMPERAMENTO Y CARÁCTER (ITC)
 
 35 - 9.Reglamento de Ingreso, Promoción y Permanencia del Personal Académico.pdf
 
-36 - 978-0-387-78191-4.pdf
+36 - 978-0-387-78191-4.pdf - The Statistical Analysis
+of Functional MRI Data
 
-37 - 978-1-0716-0421-2.pdf
+37 - 978-1-0716-0421-2.pdf - Synergetics
 
-38 - 978-1-0716-4438-6 (1).pdf
+38 - 978-1-0716-4438-6 (1).pdf -
 
-39 - 978-1-0716-4438-6.pdf
+39 - 978-1-0716-4438-6.pdf - fMRI Techniques and Protocols
+Third Edition 
 
-40 - 978-1-4842-8652-4.pdf
+40 - 978-1-4842-8652-4.pdf - Building Quality Shaders
+for Unity
 
-41 - 978-1-4842-9541-0.pdf
+41 - 978-1-4842-9541-0.pdf - Beginning iPhone
+Development with SwiftUI
 
-42 - 978-1-4842-9691-2.pdf
+42 - 978-1-4842-9691-2.pdf - Data Parallel C++
 
-43 - 978-1-4842-9720-9.pdf
+43 - 978-1-4842-9720-9.pdf - Game Programming with
+Unity and C#
 
-44 - 978-1-4842-9843-5.pdf
+44 - 978-1-4842-9843-5.pdf - Lean Game
+Development 
 
-45 - 978-3-030-33970-8.pdf
+45 - 978-3-030-33970-8.pdf - Machine Learning in Medicine – A Complete
+Overview
 
-46 - 978-3-030-85292-4.pdf
+46 - 978-3-030-85292-4.pdf - Machine Learning in Clinical
+Neuroscience
 
-47 - 978-3-031-10909-6.pdf
+47 - 978-3-031-10909-6.pdf - Functional Neuroradiology, 2e
 
-48 - 978-3-031-45645-9.pdf
+48 - 978-3-031-45645-9.pdf - Information Systems
+and Technologies
 
-49 - 978-3-031-46784-4 (1).pdf
+49 - 978-3-031-46784-4 (1).pdf - 
 
-50 - 978-3-031-46784-4.pdf
+50 - 978-3-031-46784-4.pdf - Advances on Broad-Band
+and Wireless Computing,
+Communication
+and Applications
 
-51 - 978-3-031-47787-4.pdf
+51 - 978-3-031-47787-4.pdf - Being Participatory: Researching with
+Children and Young People
 
-52 - 978-3-031-51993-2.pdf
+52 - 978-3-031-51993-2.pdf - Morphology, Neurogeometry,
+Semiotics
 
-53 - 978-3-031-54820-8.pdf
+53 - 978-3-031-54820-8.pdf - Data Analytics in System
+Engineering
 
-54 - 978-3-031-70421-5.pdf
+54 - 978-3-031-70421-5.pdf - New Trends in Database
+and Information Systems
 
-55 - 978-3-031-72325-4.pdf
+55 - 978-3-031-72325-4.pdf - Advances in Network-Based
+Information Systems
 
-56 - 978-3-031-75167-7.pdf
+56 - 978-3-031-75167-7.pdf - Artificial Intelligence
+and Speech Technology
 
-57 - 978-3-031-76696-1.pdf
+57 - 978-3-031-76696-1.pdf - MRI Neuroanatomy
 
-58 - 978-3-031-77600-7.pdf
+58 - 978-3-031-77600-7.pdf - Visions of Tomorrow
 
-59 - 978-3-031-77975-6.pdf
+59 - 978-3-031-77975-6.pdf - XR and Metaverse
 
-60 - 978-3-031-82330-5.pdf
+60 - 978-3-031-82330-5.pdf - MATLAB for Psychologists
 
-61 - 978-3-031-82610-8.pdf
+61 - 978-3-031-82610-8.pdf - Software Engineering
+and Management: Theory
+and Applications
 
-62 - 978-3-031-82614-6.pdf
+62 - 978-3-031-82614-6.pdf - Neuropsychology and Substance Use Disorders
 
-63 - 978-3-031-83089-1.pdf
+63 - 978-3-031-83089-1.pdf - Neuromorphic Computing Principles
+and Organization
 
-64 - 978-3-031-83339-7.pdf
+64 - 978-3-031-83339-7.pdf - Lectures on Mathematics for
+Economic and Financial
+Analysis
 
-65 - 978-3-031-84185-9.pdf
+65 - 978-3-031-84185-9.pdf - The Political Economy
+of Contemporary
+Human Civilisation,
+Volume II
 
-66 - 978-3-031-84460-7.pdf
+66 - 978-3-031-84460-7.pdf - Advances in Information
+and Communication
 
 67 - 978-3-031-84774-5 (1).pdf
 
-68 - 978-3-031-84774-5.pdf
+68 - 978-3-031-84774-5.pdf - Principles of Medical Imaging for Engineers
 
-69 - 978-3-031-86270-0.pdf
+69 - 978-3-031-86270-0.pdf - Computational Analysis of Microscopy Images
 
-70 - 978-3-031-88130-5.pdf
+70 - 978-3-031-88130-5.pdf - Cultural Data Science
 
-71 - 978-3-031-88942-4.pdf
+71 - 978-3-031-88942-4.pdf - Renewable Energy Storage
 
-72 - 978-3-031-89033-8 (1).pdf
+72 - 978-3-031-89033-8 (1).pdf - Extreme-Scale Computing
 
 73 - 978-3-031-89033-8.pdf
 
-74 - 978-3-031-90514-8.pdf
+74 - 978-3-031-90514-8.pdf - Optimizing the Diagnostic
+Power of Otoacoustic
+Emissions Using Theoretical
+Cochlear Mechanics
 
-75 - 978-3-031-92285-5.pdf
+75 - 978-3-031-92285-5.pdf - Engineering
+Information
+Systems with
+Large Language
+Models
 
-76 - 978-3-031-94593-9.pdf
+76 - 978-3-031-94593-9.pdf - Essential Python for the Physicist
 
 77 - 978-3-031-96638-5 (1).pdf
 
 78 - 978-3-031-96638-5 (2).pdf
 
-79 - 978-3-031-96638-5.pdf
+79 - 978-3-031-96638-5.pdf - An Introduction to
+Web Mining
 
-80 - 978-3-031-97111-2.pdf
+80 - 978-3-031-97111-2.pdf - Green Energy and Technology
 
 81 - 978-3-032-02963-8 (1).pdf
 
-82 - 978-3-032-02963-8.pdf
+82 - 978-3-032-02963-8.pdf - AI for Medical Image Analysis
 
 83 - 978-3-032-04738-0 (1).pdf
 
-84 - 978-3-032-04738-0.pdf
+84 - 978-3-032-04738-0.pdf - Artificial Intelligence
+for Agile Business Solutions
 
-85 - 978-3-032-04806-6.pdf
+85 - 978-3-032-04806-6.pdf - Digital Image Processing and Image Acquisition
 
-86 - 978-3-032-05261-2.pdf
+86 - 978-3-032-05261-2.pdf - Fundamentals of Electronics
 
-87 - 978-3-032-06787-6.pdf
+87 - 978-3-032-06787-6.pdf -  Human-Centric
+Cyber-Society
 
-88 - 978-3-032-09113-0.pdf
+88 - 978-3-032-09113-0.pdf - Decarbonization of Building
+Energy in Developing
+Countries
 
-89 - 978-3-032-09609-8.pdf
+89 - 978-3-032-09609-8.pdf - The Roadmap to Renewable Energy
 
-90 - 978-3-032-10917-0.pdf
+90 - 978-3-032-10917-0.pdf - Renewable Energy
+Implications for the Textile
+Industry
 
-91 - 978-3-032-10982-8.pdf
+91 - 978-3-032-10982-8.pdf - Biomedical Signals
+and Systems
 
-92 - 978-3-032-11085-5.pdf
+92 - 978-3-032-11085-5.pdf - Proceedings of the Joint
+International Conference: 5th
+Conference on Engineering
+and Entrepreneurship and 11th
+Textile Conference
 
-93 - 978-3-032-11596-6.pdf
+93 - 978-3-032-11596-6.pdf - AI for the Healthy Brain
+and Neurological
+Disorders
 
-94 - 978-3-032-11814-1.pdf
+94 - 978-3-032-11814-1.pdf - The Artificial Intelligence Revolution
 
-95 - 978-3-032-11854-7.pdf
+95 - 978-3-032-11854-7.pdf - Advanced Signal Processing
 
-96 - 978-3-032-12784-6.pdf
+96 - 978-3-032-12784-6.pdf - Advances in District Heating
+Systems and Integrating
+Renewables
 
-97 - 978-3-032-14534-5.pdf
+97 - 978-3-032-14534-5.pdf - Machine Learning,
+Image Processing,
+Network Security and
+Data Sciences
 
-98 - 978-3-032-16027-0.pdf
+98 - 978-3-032-16027-0.pdf - Zero Energy Buildings 
 
-99 - 978-3-032-16102-4.pdf
+99 - 978-3-032-16102-4.pdf - Body Area Networks 
 
-100 - 978-3-032-18030-8.pdf
+100 - 978-3-032-18030-8.pdf - Preparing K-12 Pre-Service
+Science Teachers for the Age
+of Artificial Intelligence
 
-101 - 978-3-032-19182-3.pdf
+101 - 978-3-032-19182-3.pdf - 
 
 102 - 978-3-032-21865-0.pdf
 
@@ -344,7 +399,7 @@ Y DEL INVENTARIO DE TEMPERAMENTO Y CARÁCTER (ITC)
 
 158 - BrChaos.pdf
 
-159 - CONN_fMRI_Functional_connectivity_toolbox_manual_v14.pdf
+159 - CONN_fMRI_Functional_connectivity_toolbox_manual_v14.pdf -  Functional connectivity toolbox v14
 
 160 - CONN_fMRI_batch_manual (1).pdf
 
@@ -352,7 +407,8 @@ Y DEL INVENTARIO DE TEMPERAMENTO Y CARÁCTER (ITC)
 
 162 - CONN_fMRI_batch_manual (3).pdf
 
-163 - CONN_fMRI_batch_manual.pdf
+163 - CONN_fMRI_batch_manual.pdf - CONN – fMRI functional connectivity toolbox
+BATCH processing manual
 
 164 - CONVOCATORIA BECAS AAPAUNAM 2026-27.pdf
 
