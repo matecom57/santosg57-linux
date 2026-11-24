@@ -369,9 +369,10 @@ of Artificial Intelligence
 
 143 - 979-8-8688-2476-0.pdf
 
-144 - AI_Agentes_Michael_Lanham.pdf
+144 - AI_Agentes_Michael_Lanham.pdf - AI Agents in Action
 
-145 - A_hands-on_tutorial_on_network_and_topological_neu.pdf
+145 - A_hands-on_tutorial_on_network_and_topological_neu.pdf - A hands‑on tutorial on network and topological 
+neuroscience
 
 146 - Acta Tutoral 4.pdf
 
@@ -385,7 +386,9 @@ of Artificial Intelligence
 
 151 - Art Aimee Argüero.pdf
 
-152 - Artificial Intelligence - A Modern Approach (3rd Edition).pdf
+152 - Artificial Intelligence - A Modern Approach (3rd Edition).pdf - Artificial Intelligence
+A Modern Approach
+Third Edition
 
 153 - B1T1-Estadística-descriptiva.pdf
 
@@ -432,7 +435,7 @@ BATCH processing manual
 
 174 - Cartel_Prevencion_y_Combate_de_Incendios_UNAM_INB.pdf
 
-175 - Chaos-biology.pdf
+175 - Chaos-biology.pdf - chaos in biology
 
 176 - Ciencias-de-la-Tierra-Tomo-II.pdf
 
@@ -443,11 +446,15 @@ Comparative_Study_of_CUDA_GPU_Implementations_in_Python_With_the_Fast_Iterative_
 
 179 - Comparativo_perfiles_Comision_Dictaminadora.pdf
 
-180 - Computational_Topology_An_Introduction.pdf
+180 - Computational_Topology_An_Introduction.pdf - COMPUTATIONAL TOPOLOGY
+AN INTRODUCTION
 
-181 - Computational_Topology_Harer.pdf
+181 - Computational_Topology_Harer.pdf - Computational
+Topology
+An Introduction
 
-182 - Computer Vision_ Algorithms and Applications - Szeliski.pdf
+182 - Computer Vision_ Algorithms and Applications - Szeliski.pdf - Computer Vision:
+Algorithms and Applications
 
 183 - Constancia de Semanas Cotizadas del Asegurado 2.pdf
 
@@ -493,7 +500,9 @@ Comparative_Study_of_CUDA_GPU_Implementations_in_Python_With_the_Fast_Iterative_
 
 204 - Index de Pittsburgh.pdf
 
-205 - Introduction to Machine Learning with Python ( PDFDrive.com )-min.pdf
+205 - Introduction to Machine Learning with Python ( PDFDrive.com )-min.pdf - Introduction to Machine Learning
+with Python
+A Guide for Data Scientists
 
 206 - Invitacion Yony Roman.pdf
 
@@ -511,7 +520,8 @@ Comparative_Study_of_CUDA_GPU_Implementations_in_Python_With_the_Fast_Iterative_
 
 213 - Martinez 2026.pdf
 
-214 - Mastering_AI_Agents_Practical_Handbook.pdf
+214 - Mastering_AI_Agents_Practical_Handbook.pdf - MASTERING
+AI AGENTS
 
 215 - Memoria XXXIII Jornadas Academicas 2026.pdf
 
@@ -541,7 +551,7 @@ Comparative_Study_of_CUDA_GPU_Implementations_in_Python_With_the_Fast_Iterative_
 
 228 - S1560354724050010.pdf
 
-229 - Scott_Meyers_Effective_Modern_C++.pdf
+229 - Scott_Meyers_Effective_Modern_C++.pdf - Effective Modern C++
 
 230 - Solicitud papiit 2025.pdf
 
