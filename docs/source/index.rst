@@ -30,4 +30,5 @@ Contents
    seaborn_ejemplos.rst
    nifti.rst
    Libros57_USB.rst
+   cute/cute.rst
 
