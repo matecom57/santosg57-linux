@@ -28,47 +28,69 @@ longitudinal behavioral change of fluid reasoning in the RANN cohort
 11 - 1-s2.0-S1350453301000753-main.pdf - Chaos in the brain: a short review alluding to epilepsy, depression,
 exercise and lateralization
 
-12 - 1-s2.0-S1631069103002002-main.pdf
+12 - 1-s2.0-S1631069103002002-main.pdf - Is there chaos in the brain? II. Experimental evidence
+and related models
 
-13 - 1-s2.0-S2212443826000469-main.pdf
+13 - 1-s2.0-S2212443826000469-main.pdf - Artificial intelligence software or clinical intuition?
 
-14 - 1-s2.0-S2352711021001102-main.pdf
+14 - 1-s2.0-S2352711021001102-main.pdf - GPUCorrel: A GPU accelerated Digital Image Correlation
+software written in Python
 
-15 - 10090855.pdf
+15 - 10090855.pdf - Fast-GPU-PCC: A GPU Based Technique to Compute
+Pairwise Pearson’s Correlation Coefficients for Big
+fMRI Data
 
-16 - 120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf
+16 - 120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf - The Theory and Practice
+of Online Learning
 
-17 - 13239_2023_Article_663.pdf
+17 - 13239_2023_Article_663.pdf - In Silico Evaluation of a Self-powered Venous Ejector Pump for Fontan
+Patients
 
-18 - 151110_1_10.0036449.pdf
+18 - 151110_1_10.0036449.pdf - Modeling the chaos in a neuron
 
-19 - 16.pdf.pdf
+19 - 16.pdf.pdf - Programming 3D Applications
+with HTML5 and WebGL
 
-20 - 1806.05167v1.pdf
+20 - 1806.05167v1.pdf - The importance of the whole: topological data analysis for the
+network neuroscientist
 
-21 - 1990_JUNIO-SEPTIEMBRE_VOL-9.pdf
+21 - 1990_JUNIO-SEPTIEMBRE_VOL-9.pdf - avance y perspectiva
 
-22 - 2. evaluacionpersonal2.pdf
+22 - 2. evaluacionpersonal2.pdf - CRITERIOS Y LINEAMIENTOS PARA LA EVALUACIÓN DEL
+PERSONAL ACADÉMICO DE LOS INSTITUTOS Y CENTROS
+DEL SUBSISTEMA DE LA INVESTIGACIÓN CIENTÍFICA
 
-23 - 2021.02.15.431255v1.full.pdf
+23 - 2021.02.15.431255v1.full.pdf - Full title: A hands-on tutorial on network and topological neuroscience
 
-24 - 2021.05.06.442886v3.full.pdf
+24 - 2021.05.06.442886v3.full.pdf - Optimizing network neuroscience computation of individual differences in
+3 human spontaneous brain activity for test-retest reliability
 
-25 - 2023_prontuario_tramites_ingreso_promocion_permanencia.pdf
+25 - 2023_prontuario_tramites_ingreso_promocion_permanencia.pdf - Prontuario sobre Trámites
+para el Ingreso, Promoción y
+Permanencia del Personal
+Académico de la UNAM
 
-26 - 2404.01473v3.pdf
+26 - 2404.01473v3.pdf - gpu tracker: Python Package for Tracking
+and Profiling GPU and Other Hardware
+Utilization in Both Desktop and HighPerformance Computing
+Environments
 
-27 - 2511.03605v1.pdf
+27 - 2511.03605v1.pdf - BAYESIAN TOPOLOGICAL ANALYSIS OF FUNCTIONAL BRAIN NETWORKS
 
-28 - 28.MOSCOVICZ Y COLS 2026.pdf
+28 - 28.MOSCOVICZ Y COLS 2026.pdf - In Vivo Longitudinal Mapping of Brain Iron Accumulation After
+Pilocarpine-Induced Status Epilepticus
 
-29 - 370615a0.pdf
+29 - 370615a0.pdf - Controlling chaos in the brain 
 
-30 - 429_2021_Article_2435.pdf
+30 - 429_2021_Article_2435.pdf - A hands‑on tutorial on network and topological neuroscience
 
-31 - 44271_2026_Article_444.pdf
+31 - 44271_2026_Article_444.pdf - Rhythmic skills mediate the link between
+music training and cognition via attention
+and phonological processing
 
-32 - 58230405.pdf
+32 - 58230405.pdf - VERSIÓN COMPUTARIZADA PARA LA APLICACIÓN
+DEL LISTADO DE SÍNTOMAS 90 (SCL 90)
+Y DEL INVENTARIO DE TEMPERAMENTO Y CARÁCTER (ITC)
 
 33 - 641733.pdf
 
