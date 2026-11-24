@@ -1,0 +1,738 @@
+/Users/santosg/Libros57/PDF/PDF_M10D21Y26_M11D24Y26.html
+============================================
+
+1 - 03-SGE-Admin-Config.pdf - rid Engine Administration
+
+2 - 033017b4-b67c-4246-89f2-dc9524ed01c2.pdf - Maestria en Inteligencia Artificial Aplicada
+
+3 - 097618_1_online.pdf - Defining chaos
+
+4 - 1-s2.0-0898122186904396-main.pdf - THE MATHEMATICAL THEORY OF CHAOS 
+
+5 - 1-s2.0-S0022519313000222-main.pdf - What can be learned from a chaotic cancer model?
+
+6 - 1-s2.0-S009286741630592X-main.pdf - From Dietary Fiber to Host Physiology: Short-Chain Fatty Acids as Key Bacterial 
+Metabolites
+
+7 - 1-s2.0-S0272494424000951-main.pdf - Knowing and experiencing the benefits: Factors influencing restoration
+evoked by nature photographs
+
+8 - 1-s2.0-S0301008219303533-main.pdf - Conserved and divergent expression dynamics during early patterning of the
+telencephalon in mouse and chick embryos
+
+9 - 1-s2.0-S1053811913005053-main.pdf - The minimal preprocessing pipelines for the Human Connectome Project
+
+10 - 1-s2.0-S1053811923003889-main.pdf - Simple topological task-based functional connectivity features predict
+longitudinal behavioral change of fluid reasoning in the RANN cohort
+
+11 - 1-s2.0-S1350453301000753-main.pdf - Chaos in the brain: a short review alluding to epilepsy, depression,
+exercise and lateralization
+
+12 - 1-s2.0-S1631069103002002-main.pdf
+
+13 - 1-s2.0-S2212443826000469-main.pdf
+
+14 - 1-s2.0-S2352711021001102-main.pdf
+
+15 - 10090855.pdf
+
+16 - 120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf
+
+17 - 13239_2023_Article_663.pdf
+
+18 - 151110_1_10.0036449.pdf
+
+19 - 16.pdf.pdf
+
+20 - 1806.05167v1.pdf
+
+21 - 1990_JUNIO-SEPTIEMBRE_VOL-9.pdf
+
+22 - 2. evaluacionpersonal2.pdf
+
+23 - 2021.02.15.431255v1.full.pdf
+
+24 - 2021.05.06.442886v3.full.pdf
+
+25 - 2023_prontuario_tramites_ingreso_promocion_permanencia.pdf
+
+26 - 2404.01473v3.pdf
+
+27 - 2511.03605v1.pdf
+
+28 - 28.MOSCOVICZ Y COLS 2026.pdf
+
+29 - 370615a0.pdf
+
+30 - 429_2021_Article_2435.pdf
+
+31 - 44271_2026_Article_444.pdf
+
+32 - 58230405.pdf
+
+33 - 641733.pdf
+
+34 - 8va-probabilidad-y-estadistica-para-ingenier-walpole_8.pdf
+
+35 - 9.Reglamento de Ingreso, Promoción y Permanencia del Personal Académico.pdf
+
+36 - 978-0-387-78191-4.pdf
+
+37 - 978-1-0716-0421-2.pdf
+
+38 - 978-1-0716-4438-6 (1).pdf
+
+39 - 978-1-0716-4438-6.pdf
+
+40 - 978-1-4842-8652-4.pdf
+
+41 - 978-1-4842-9541-0.pdf
+
+42 - 978-1-4842-9691-2.pdf
+
+43 - 978-1-4842-9720-9.pdf
+
+44 - 978-1-4842-9843-5.pdf
+
+45 - 978-3-030-33970-8.pdf
+
+46 - 978-3-030-85292-4.pdf
+
+47 - 978-3-031-10909-6.pdf
+
+48 - 978-3-031-45645-9.pdf
+
+49 - 978-3-031-46784-4 (1).pdf
+
+50 - 978-3-031-46784-4.pdf
+
+51 - 978-3-031-47787-4.pdf
+
+52 - 978-3-031-51993-2.pdf
+
+53 - 978-3-031-54820-8.pdf
+
+54 - 978-3-031-70421-5.pdf
+
+55 - 978-3-031-72325-4.pdf
+
+56 - 978-3-031-75167-7.pdf
+
+57 - 978-3-031-76696-1.pdf
+
+58 - 978-3-031-77600-7.pdf
+
+59 - 978-3-031-77975-6.pdf
+
+60 - 978-3-031-82330-5.pdf
+
+61 - 978-3-031-82610-8.pdf
+
+62 - 978-3-031-82614-6.pdf
+
+63 - 978-3-031-83089-1.pdf
+
+64 - 978-3-031-83339-7.pdf
+
+65 - 978-3-031-84185-9.pdf
+
+66 - 978-3-031-84460-7.pdf
+
+67 - 978-3-031-84774-5 (1).pdf
+
+68 - 978-3-031-84774-5.pdf
+
+69 - 978-3-031-86270-0.pdf
+
+70 - 978-3-031-88130-5.pdf
+
+71 - 978-3-031-88942-4.pdf
+
+72 - 978-3-031-89033-8 (1).pdf
+
+73 - 978-3-031-89033-8.pdf
+
+74 - 978-3-031-90514-8.pdf
+
+75 - 978-3-031-92285-5.pdf
+
+76 - 978-3-031-94593-9.pdf
+
+77 - 978-3-031-96638-5 (1).pdf
+
+78 - 978-3-031-96638-5 (2).pdf
+
+79 - 978-3-031-96638-5.pdf
+
+80 - 978-3-031-97111-2.pdf
+
+81 - 978-3-032-02963-8 (1).pdf
+
+82 - 978-3-032-02963-8.pdf
+
+83 - 978-3-032-04738-0 (1).pdf
+
+84 - 978-3-032-04738-0.pdf
+
+85 - 978-3-032-04806-6.pdf
+
+86 - 978-3-032-05261-2.pdf
+
+87 - 978-3-032-06787-6.pdf
+
+88 - 978-3-032-09113-0.pdf
+
+89 - 978-3-032-09609-8.pdf
+
+90 - 978-3-032-10917-0.pdf
+
+91 - 978-3-032-10982-8.pdf
+
+92 - 978-3-032-11085-5.pdf
+
+93 - 978-3-032-11596-6.pdf
+
+94 - 978-3-032-11814-1.pdf
+
+95 - 978-3-032-11854-7.pdf
+
+96 - 978-3-032-12784-6.pdf
+
+97 - 978-3-032-14534-5.pdf
+
+98 - 978-3-032-16027-0.pdf
+
+99 - 978-3-032-16102-4.pdf
+
+100 - 978-3-032-18030-8.pdf
+
+101 - 978-3-032-19182-3.pdf
+
+102 - 978-3-032-21865-0.pdf
+
+103 - 978-3-032-31204-4.pdf
+
+104 - 978-3-319-05615-9.pdf
+
+105 - 978-3-662-43968-5.pdf
+
+106 - 978-3-662-65774-4.pdf
+
+107 - 978-981-95-0800-6.pdf
+
+108 - 978-981-95-1038-2.pdf
+
+109 - 978-981-95-6845-1.pdf
+
+110 - 978-981-96-0738-9.pdf
+
+111 - 978-981-96-1078-5.pdf
+
+112 - 978-981-96-2332-7.pdf
+
+113 - 978-981-96-2482-9.pdf
+
+114 - 978-981-96-2933-6 (1).pdf
+
+115 - 978-981-96-2933-6.pdf
+
+116 - 978-981-96-3287-9.pdf
+
+117 - 978-981-96-4656-2.pdf
+
+118 - 978-981-96-4706-4.pdf
+
+119 - 978-981-96-7134-2.pdf
+
+120 - 978-981-96-7655-2.pdf
+
+121 - 978-981-96-8639-1.pdf
+
+122 - 978-981-97-5333-8 (1).pdf
+
+123 - 978-981-97-5333-8.pdf
+
+124 - 978-981-97-8631-2.pdf
+
+125 - 978-981-97-9045-6.pdf
+
+126 - 978-981-99-1176-9.pdf
+
+127 - 978-981-99-3716-5.pdf
+
+128 - 978-981-99-3814-8.pdf
+
+129 - 978-981-99-7011-7.pdf
+
+130 - 978-981-99-9089-4.pdf
+
+131 - 978-981-99-9939-2.pdf
+
+132 - 9780203738535_previewpdf.pdf
+
+133 - 979-8-8688-0190-7.pdf
+
+134 - 979-8-8688-0853-1.pdf
+
+135 - 979-8-8688-1180-7 (1).pdf
+
+136 - 979-8-8688-1180-7.pdf
+
+137 - 979-8-8688-1557-7.pdf
+
+138 - 979-8-8688-1691-8.pdf
+
+139 - 979-8-8688-1892-9.pdf
+
+140 - 979-8-8688-2083-0 (1).pdf
+
+141 - 979-8-8688-2083-0.pdf
+
+142 - 979-8-8688-2439-5.pdf
+
+143 - 979-8-8688-2476-0.pdf
+
+144 - AI_Agentes_Michael_Lanham.pdf
+
+145 - A_hands-on_tutorial_on_network_and_topological_neu.pdf
+
+146 - Acta Tutoral 4.pdf
+
+147 - Acta de Evaluación Ordinaria.pdf
+
+148 - Anuario-2000 (1).pdf
+
+149 - Anuario-2000.pdf
+
+150 - Análisis de datos estadísticos.pdf
+
+151 - Art Aimee Argüero.pdf
+
+152 - Artificial Intelligence - A Modern Approach (3rd Edition).pdf
+
+153 - B1T1-Estadística-descriptiva.pdf
+
+154 - BF02684366.pdf
+
+155 - Bazaikin_III.pdf
+
+156 - Benjamini-ControllingFalseDiscovery-1995.pdf
+
+157 - Boletín 001 AQC 10.08.26 F TCRS.pdf
+
+158 - BrChaos.pdf
+
+159 - CONN_fMRI_Functional_connectivity_toolbox_manual_v14.pdf
+
+160 - CONN_fMRI_batch_manual (1).pdf
+
+161 - CONN_fMRI_batch_manual (2).pdf
+
+162 - CONN_fMRI_batch_manual (3).pdf
+
+163 - CONN_fMRI_batch_manual.pdf
+
+164 - CONVOCATORIA BECAS AAPAUNAM 2026-27.pdf
+
+165 - COT1509.pdf
+
+166 - COT1849 V3.pdf
+
+167 - COT1849.pdf
+
+168 - COT1905.pdf
+
+169 - CTZ1044 V2.pdf
+
+170 - CTZ1044.pdf
+
+171 - CTZ821.pdf
+
+172 - CTZ901.pdf
+
+173 - Carta_Compromiso_GOSL571028HDFNNP01.pdf
+
+174 - Cartel_Prevencion_y_Combate_de_Incendios_UNAM_INB.pdf
+
+175 - Chaos-biology.pdf
+
+176 - Ciencias-de-la-Tierra-Tomo-II.pdf
+
+177 - CircularOperativaGMM25_27.pdf
+
+178 - 
+Comparative_Study_of_CUDA_GPU_Implementations_in_Python_With_the_Fast_Iterative_Shrinkage-Thresholding_Algorithm_for_LASSO.pdf
+
+179 - Comparativo_perfiles_Comision_Dictaminadora.pdf
+
+180 - Computational_Topology_An_Introduction.pdf
+
+181 - Computational_Topology_Harer.pdf
+
+182 - Computer Vision_ Algorithms and Applications - Szeliski.pdf
+
+183 - Constancia de Semanas Cotizadas del Asegurado 2.pdf
+
+184 - Contrato_Colectivo_de_Trabajo_2025-2027-1.pdf
+
+185 - Convocatoria docencia UNAM octubre 2027-2 (1).pdf
+
+186 - Convocatoria docencia UNAM octubre 2027-2.pdf
+
+187 - Convocatoria para docentes_Neuropatologia.pdf
+
+188 - Correlation_analysis_on_GPU_systems_using_NVIDIAs.pdf
+
+189 - DOC-20260411-WA0022..pdf
+
+190 - DOC-20260411-WA0035..pdf
+
+191 - DOF - Diario Oficial de la Federación (1).pdf
+
+192 - DialoguesClinNeurosci-9-279.pdf
+
+193 - Documento_completo.pdf
+
+194 - EJ1149275.pdf
+
+195 - Eddy_Acceso_Instalaciones_Juriquilla.pdf
+
+196 - Ermentrout_Therman.pdf
+
+197 - GONZALEZ SANTOS LEOPOLDO INF 2025 PLAN 2026.pdf
+
+198 - ICoMS CFP 2026.pdf
+
+199 - IJE2010-270832.pdf
+
+200 - INB COT 12-26 DR LEOPOLDO GONZALEZ HP 89A.pdf
+
+201 - INTRODUCCION AL LENGUAJE DE PROGRAMACION R.pdf
+
+202 - In silico evaluation of multispecies toxicity of natural compounds.pdf
+
+203 - Index de Pittsburgh (1).pdf
+
+204 - Index de Pittsburgh.pdf
+
+205 - Introduction to Machine Learning with Python ( PDFDrive.com )-min.pdf
+
+206 - Invitacion Yony Roman.pdf
+
+207 - LTI.pdf
+
+208 - Leopoldo González Santos.pdf
+
+209 - Leopoldo_Gonzalez_Santos_CV.pdf
+
+210 - MAPA-MAESTRIA-EN-CIENCIAS-EN-INTELIGENCIA-ARTIFICIAL.pdf
+
+211 - MARIA TERESA CASTILLO URIBE20260608_17302357 (1).pdf
+
+212 - Manual botoneras.pdf
+
+213 - Martinez 2026.pdf
+
+214 - Mastering_AI_Agents_Practical_Handbook.pdf
+
+215 - Memoria XXXIII Jornadas Academicas 2026.pdf
+
+216 - Memoria XXXIII Jornadas Academicas 2026_Hiram.pdf
+
+217 - Molnar-interpretable-machine-learning_compressed.pdf
+
+218 - Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf
+
+219 - OWR_2015_45.pdf
+
+220 - Physical act quest.pdf
+
+221 - Programa Talleres_SMB_Cancun.pdf
+
+222 - Python-parallel-gpu-2.pdf
+
+223 - RECIBO_20108_20006887.pdf
+
+224 - RECIBO_21401_20774468.pdf
+
+225 - Recomendaciones Generales para Todos los Laboratorios del INB.pdf
+
+226 - Review paper_reporting practices for fMRI studies_Acaretal_Neuroinformatics.pdf
+
+227 - S0361768824010055.pdf
+
+228 - S1560354724050010.pdf
+
+229 - Scott_Meyers_Effective_Modern_C++.pdf
+
+230 - Solicitud papiit 2025.pdf
+
+231 - Stolz_2021_J._Phys._Complex._2_035006.pdf
+
+232 - Tarea #6 Heitan Aramis Garcia Vazquez.pdf
+
+233 - Ten_ways_make_money.pdf
+
+234 - The Journal of Engineering - 2019 - Huang - GPU computing performance analysis on matrix multiplication.pdf
+
+235 - Topological_Data_Analysis_for_Functional_Brain_Net.pdf
+
+236 - Toward.pdf
+
+237 - Triptico_profesores_Cursos.pdf
+
+238 - Vacantes_Mayo_2026_BMS.pdf
+
+239 - WhitfieldNieto2012.pdf
+
+240 - anatomy.pdf
+
+241 - atlas-of-functional-neuroanatomy-3e.pdf
+
+242 - bhu217.pdf
+
+243 - bioengineering-12-00442-v2.pdf
+
+244 - biology-11-01317.pdf
+
+245 - biomolecules-12-01425.pdf
+
+246 - btag068.pdf
+
+247 - build_large_language_model_sebastian.pdf
+
+248 - c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf
+
+249 - cc3a1lculo-diferencial-e-integral-granville.pdf
+
+250 - convocatoria_2026.pdf
+
+251 - creaHTML.py
+
+252 - cuestionario-de-dominancia-manual-de-edinburgh.pdf
+
+253 - di-gaetano_leonardo.pdf
+
+254 - digital-circuit-analysis-and-design-with-simulink-modeling-and-introduction-to-cplds-and-fpgas_compress.pdf
+
+255 - dinamica-de-las-estructuras-3ra-edicion-anil.pdf
+
+256 - dir_M10D30Y26.html
+
+257 - dir_M10D30Y26.txt
+
+258 - dokumen.pub_an-introduction-to-logic-programming-through-prolog.pdf
+
+259 - dokumen.pub_functional-magnetic-resonance-imaging-3rdnbsped-0878936270-9780878936274.pdf
+
+260 - dokumen.pub_handbook-of-evolutionary-computation-first.pdf
+
+261 - dokumen.pub_introduction-to-computational-geometry-1774698471-9781774698471.pdf
+
+262 - dokumen.pub_introduction-to-logic-programming-1nbsped-3031004582-9783031004582 (1).pdf
+
+263 - dokumen.pub_introduction-to-logic-programming-1nbsped-3031004582-9783031004582.pdf
+
+264 - dokumen.pub_introduction-to-logic-programming-9781681737225.pdf
+
+265 - dokumen.pub_lenguaje-ensamblador-primera-edicion.pdf
+
+266 - dokumen.pub_neuroanatomia-clinica-6-edicion.pdf
+
+267 - dokumen.pub_neuroscience-sixth-edition-9781605353807-1605353809-9781605358413-160535841x.pdf
+
+268 - dokumen.pub_the-linux-command-line-fifth-internet-edition.pdf
+
+269 - dsm5-manualdiagnsticoyestadisticodelostrastornosmentales-161006005112.pdf
+
+270 - dsn (1).pdf
+
+271 - dsn.pdf
+
+272 - ebook-fuzzy-mitchell.pdf
+
+273 - ed4c01085 (1).pdf
+
+274 - ed4c01085.pdf
+
+275 - edelcomp.pdf
+
+276 - f1000research-5-8290.pdf
+
+277 - fnimg-01-1073734.pdf
+
+278 - fpsyg-12-717116.pdf
+
+279 - functional-magnetic-resonance-imaging-3rdnbsped.pdf
+
+280 - glm.pdf
+
+281 - glmbook.pdf
+
+282 - instructivo_nuevo_profesor_posgrado.pdf
+
+283 - jcinvest00033-0017.pdf
+
+284 - jp4c04901 (1).pdf
+
+285 - jp4c04901.pdf
+
+286 - juna.pdf
+
+287 - lateralidad_edinburgh.pdf
+
+288 - learning-java-4th-edition_compress.pdf
+
+289 - lyapunov.pdf
+
+290 - machine-learning-refined-foundations-algorithms-and-applications_compress.pdf
+
+291 - machine_learning_python_cookbook.pdf
+
+292 - main-1.pdf
+
+293 - manual-5.1.1.pdf
+
+294 - manuscript.pdf
+
+295 - math-for-game-development-with-unity-3d-a-beginners-guide.pdf
+
+296 - mathematics-12-00455-v3.pdf
+
+297 - mathematics-14-01385-v2.pdf
+
+298 - matlab_pct_slides.pdf
+
+299 - matrix-sim.pdf
+
+300 - minicourse1.pdf
+
+301 - molecular-coupling-between-organic-molecules-and-metal.pdf
+
+302 - molecules-27-06374.pdf
+
+303 - mri_physics.pdf
+
+304 - netn_a_00073.pdf
+
+305 - nihms-1046292.pdf
+
+306 - nihms-1595274.pdf
+
+307 - nihms-1604311.pdf
+
+308 - nihms-1618770.pdf
+
+309 - nihms268522.pdf
+
+310 - nihms476194.pdf
+
+311 - nihpp-2024.10.21.619532v1.pdf
+
+312 - nihpp-2025.06.03.657735v2.pdf
+
+313 - nihpp-2502.05814v2.pdf
+
+314 - nonlinear-dynamics-and-chaos-with-applications.pdf
+
+315 - notas28feb2019.pdf
+
+316 - nthpda_presentation_gpu_computing_with_python_by_soeren_metje.pdf
+
+317 - nthpda_report_gpu_computing_with_python_by_soeren_metje.pdf
+
+318 - nummenmaa-et-al-2013-bodily-maps-of-emotions.pdf
+
+319 - nutrients-09-00856.pdf
+
+320 - p972.pdf
+
+321 - pone.0184661.pdf
+
+322 - pone.0276419.pdf
+
+323 - python-machine-learning-2nd.pdf
+
+324 - python-machine-learning-machine-learning.pdf
+
+325 - qt2zt6x9kg.pdf
+
+326 - regrecualitativas.pdf
+
+327 - reporteSemanasCotizadas.pdf
+
+328 - resumenes.pdf
+
+329 - s00216-021-03505-2.pdf
+
+330 - s00591-025-00399-4.pdf
+
+331 - s10055-025-01284-0.pdf
+
+332 - s10484-026-09781-x.pdf
+
+333 - s10643-024-01694-w.pdf
+
+334 - s10643-026-02176-x.pdf
+
+335 - s10710-007-9035-9.pdf
+
+336 - s10758-025-09820-2.pdf
+
+337 - s10956-020-09899-5.pdf
+
+338 - s11042-024-18990-7.pdf
+
+339 - s11263-024-02306-1.pdf
+
+340 - s11692-025-09662-x.pdf
+
+341 - s12021-022-09606-2.pdf
+
+342 - s13198-025-02824-2.pdf
+
+343 - s13428-022-02024-x.pdf
+
+344 - s3d.pdf
+
+345 - s40359-024-01821-7.pdf
+
+346 - s40359-026-04036-0 (1).pdf
+
+347 - s40359-026-04036-0.pdf
+
+348 - s40670-026-02655-1.pdf
+
+349 - s41580-023-00691-y.pdf
+
+350 - s41598-024-78299-1.pdf
+
+351 - s41598-025-10543-8.pdf
+
+352 - s41598-025-13779-6.pdf
+
+353 - s41599-024-03513-4.pdf
+
+354 - s42003-019-0715-9.pdf
+
+355 - s42979-025-04465-5.pdf
+
+356 - s44163-025-00797-6.pdf
+
+357 - saca_dir.sh
+
+358 - sdarticle.pdf
+
+359 - sdata201644.pdf
+
+360 - stunam_2024_2026.pdf
+
+361 - techrxiv.176462324.46233242_v1.pdf
+
+362 - thebookofshaders.pdf
+
+363 - user_resume.pdf
+
+364 - vale_1745688_2026-07-02_10-49-16_doc00190820260702104355.pdf
+
+
