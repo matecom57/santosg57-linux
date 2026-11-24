@@ -34,4 +34,5 @@ Contents
    joel/joel.rst
    javascript/index2.rst 
    Libros57/index2.rst 
+   conn_functional_connectivity_spm_toolbox/index2.rst 
 
