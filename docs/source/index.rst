@@ -37,4 +37,5 @@ Contents
    conn_functional_connectivity_spm_toolbox/index2.rst 
    nov2526.rst
    esatdistica2/index2.rst
+   nifti/index2.rst
 
