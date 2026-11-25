@@ -35,4 +35,5 @@ Contents
    javascript/index2.rst 
    Libros57/index2.rst 
    conn_functional_connectivity_spm_toolbox/index2.rst 
+   nov2526.rst
 
