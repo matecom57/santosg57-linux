@@ -13,5 +13,8 @@ nov2526
 
 * /Users/santosg/CUTE_Programas/Programas_nov2526/res_213 BUENO
 
+* fac_TETA0.2_A10.4_B10.42_C10.19_dwx1_0.17_dwx2_0.17_dwp_0.17:b0.2d0.3e0.3
+* ./copila.sh prog_ene2423_V1_salto_jpg.R
+
 
 
