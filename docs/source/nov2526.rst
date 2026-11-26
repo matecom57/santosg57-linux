@@ -15,6 +15,9 @@ nov2526
 
 * fac_TETA0.2_A10.4_B10.42_C10.19_dwx1_0.17_dwx2_0.17_dwp_0.17:b0.2d0.3e0.3
 * ./copila.sh prog_ene2423_V1_salto_jpg.R
+* /Users/santosg/santosg57-R/source/Temarios
+* /Users/santosg/Sphinx57
+
 
 
 
