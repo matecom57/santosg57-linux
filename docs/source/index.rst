@@ -39,4 +39,5 @@ Contents
    esatdistica2/index2.rst
    nifti/index2.rst
    conn/conditions_in_conn.rst 
+   conn/doc02.rst
 
